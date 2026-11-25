@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\obj\Debug\HTTP.pdb
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\HTTP\HTTP\obj\Debug\HTTP.csproj.Up2Date
